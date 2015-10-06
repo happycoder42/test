@@ -1,6 +1,6 @@
 'use strict';
 
-var appUrl = 'http://localhost:8080/';
+var appUrl = 'https://test-happycoder42.c9.io/';
 var ajaxFunctions = {
    ready: function ready (fn) {
       if (typeof fn !== 'function') {
